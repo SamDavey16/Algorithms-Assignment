@@ -1,0 +1,58 @@
+C:\Users\Sam\source\repos\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
+C:\Users\Sam\source\repos\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
+C:\Users\Sam\source\repos\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
+C:\Users\Sam\source\repos\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Sam\source\repos\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Sam\source\repos\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
+C:\Users\Sam\source\repos\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Sam\source\repos\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csprojAssemblyReference.cache
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Sam\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_2048.txt
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_256.txt
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_2048.txt
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_256.txt
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_2048.txt
+C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_256.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_2048.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_256.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_2048.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_256.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_2048.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_256.txt
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csprojAssemblyReference.cache
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.genruntimeconfig.cache
