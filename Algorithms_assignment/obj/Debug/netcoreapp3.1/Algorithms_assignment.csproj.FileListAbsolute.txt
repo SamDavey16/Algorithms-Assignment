@@ -37,22 +37,40 @@ C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\
 C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_256.txt
 C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_2048.txt
 C:\Users\Samda\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_256.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_2048.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_256.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_2048.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_256.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_2048.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_256.txt
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csprojAssemblyReference.cache
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csproj.CoreCompileInputs.cache
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
-C:\Users\Samda\Desktop\First Year\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.genruntimeconfig.cache
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_2048.txt
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_256.txt
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_2048.txt
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_256.txt
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_2048.txt
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_256.txt
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csprojAssemblyReference.cache
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Beardo\Desktop\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.exe
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_2048.txt
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_1_256.txt
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_2048.txt
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_2_256.txt
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_2048.txt
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Net_3_256.txt
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.deps.json
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.json
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.runtimeconfig.dev.json
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\bin\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csproj.AssemblyReference.cache
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfoInputs.cache
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.AssemblyInfo.cs
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.dll
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.pdb
+C:\Users\Samda\OneDrive - University of Lincoln\Programming\Algorithms\Algorithms_assignment\obj\Debug\netcoreapp3.1\Algorithms_assignment.genruntimeconfig.cache

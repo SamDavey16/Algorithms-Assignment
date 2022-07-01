@@ -48,7 +48,7 @@ namespace HeapSort
             int Right = (Index + 1) * 2;
             int largest = 0;
 
-            if (Left < HeapSize && Heap[Left] > Heap[Index])
+            if (Left < HeapSize && Heap[Left] < Heap[Index])
             {
                 largest = Left;
             }
@@ -57,7 +57,7 @@ namespace HeapSort
                 largest = Index;
             }
 
-            if (Right < HeapSize && Heap[Right] > Heap[largest])
+            if (Right < HeapSize && Heap[Right] < Heap[largest])
             {
                 largest = Right;
             }

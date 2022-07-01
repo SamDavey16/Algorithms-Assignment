@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samda\\Desktop\\First Year\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj": {}
+    "C:\\Users\\Samda\\OneDrive - University of Lincoln\\Programming\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samda\\Desktop\\First Year\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj": {
+    "C:\\Users\\Samda\\OneDrive - University of Lincoln\\Programming\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samda\\Desktop\\First Year\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj",
+        "projectUniqueName": "C:\\Users\\Samda\\OneDrive - University of Lincoln\\Programming\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj",
         "projectName": "Algorithms_assignment",
-        "projectPath": "C:\\Users\\Samda\\Desktop\\First Year\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj",
+        "projectPath": "C:\\Users\\Samda\\OneDrive - University of Lincoln\\Programming\\Algorithms\\Algorithms_assignment\\Algorithms_assignment.csproj",
         "packagesPath": "C:\\Users\\Samda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samda\\Desktop\\First Year\\Algorithms\\Algorithms_assignment\\obj\\",
+        "outputPath": "C:\\Users\\Samda\\OneDrive - University of Lincoln\\Programming\\Algorithms\\Algorithms_assignment\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Samda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }

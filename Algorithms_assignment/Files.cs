@@ -11,6 +11,31 @@ namespace Algorithms_assignment
 {
     class Algorithms
     {
+        public static int[] merge_arrays(int[] array_1, int[] array_2)
+        {
+            int[] array_3 = new int[array_1.Length + array_2.Length];
+            Array.Copy(array_1, 0, array_3, 0, array_1.Length);
+            Array.Copy(array_2, 0, array_3, array_1.Length, array_2.Length);
+            return array_3;
+        }
+        public static void display_nth(int[] array_choice)
+        {
+            int incr;
+            if (array_choice.Length <= 612)
+            {
+                incr = 10;
+            }
+            else
+            {
+                incr = 50;
+            }
+            int i = 0;
+            while (i + incr < array_choice.Length-1)
+            {
+                i += incr;
+                Console.WriteLine(array_choice[i]);
+            }
+        }
         public static void BinarySearch(int K, int[] A, int L, int R)
         {
             int midpoint;
@@ -27,16 +52,16 @@ namespace Algorithms_assignment
                     Console.WriteLine("The value " + K + "is at location: " + midpoint);
                     break;
                 }
-                else if (K > A[midpoint])
+                else if (K > A[midpoint]) // Search val is greater than value at midpoint
                 {
                     L = midpoint + 1;
-                    if (K - A[midpoint] < difference_down)
+                    if (K - A[midpoint] < difference_down) // If the difference between K and the element at the midpoint is less than the current closest down
                     {
-                        closest_position_down = midpoint;
-                        difference_down = K - A[midpoint];
+                        closest_position_down = midpoint; // Save the position of the closest down
+                        difference_down = K - A[midpoint]; // Save the difference
                     }
                 }
-                else
+                else if (K < A[midpoint]) // Search val is less than value at midpoint
                 {
                     R = midpoint - 1;
                     if (A[midpoint] - K < difference_up)
@@ -64,100 +89,112 @@ namespace Algorithms_assignment
 
         public static void choices(int[] array_choice, string Sort_choice, int array_size)
         {
+            string search_choice;
             if (Sort_choice.Equals("1"))
             {
                 BubbleSort b = new BubbleSort();
-                b.bubbleSort(array_choice, array_size);
-                foreach (var item in array_choice)
-                {
-                    Console.WriteLine(item.ToString());
-                }
                 b.bubbleSort_descending(array_choice, array_size);
-                foreach (var item in array_choice)
-                {
-                    Console.WriteLine(item.ToString());
-                }
+                display_nth(array_choice);
+                Console.WriteLine();
+                b.bubbleSort(array_choice, array_size);
+                display_nth(array_choice);
                 Console.WriteLine("Would you like to search with (1) Linear Search or (2) Binary Search? ");
-                string pussywagon = Console.ReadLine();
-                if (pussywagon == ("1"))
+                search_choice  = Console.ReadLine();
+                if (search_choice == ("1"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     LinearSearch a = new LinearSearch();
                     a.linearSearch(number, array_choice);
                 }
-                else if (pussywagon == ("2"))
+                else if (search_choice == ("2"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     BinarySearch(number, array_choice, 0, array_size);
                 }
             }
             else if (Sort_choice.Equals("2"))
             {
                 Heap h = new Heap();
-                h.HeapSort(array_choice);
                 h.HeapSort_Descending(array_choice);
-                if (Console.ReadLine().Equals("1"))
+                display_nth(array_choice);
+                Console.WriteLine();
+                h.HeapSort(array_choice);
+                display_nth(array_choice);
+                Console.WriteLine("Would you like to search with (1) Linear Search or (2) Binary Search? ");
+                search_choice = Console.ReadLine();
+                if (search_choice == ("1"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     LinearSearch a = new LinearSearch();
                     a.linearSearch(number, array_choice);
                 }
-                else if (Console.ReadLine().Equals("2"))
+                else if (search_choice == ("2"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     BinarySearch(number, array_choice, 0, array_size);
                 }
             }
             else if (Sort_choice.Equals("3"))
             {
                 Insertionsort s = new Insertionsort();
-                s.InsertionSort(array_choice);
                 s.InsertionSort_Descending(array_choice);
-                if (Console.ReadLine().Equals("1"))
+                display_nth(array_choice);
+                Console.WriteLine();
+                s.InsertionSort(array_choice);
+                display_nth(array_choice);
+                Console.WriteLine("Would you like to search with (1) Linear Search or (2) Binary Search? ");
+                search_choice = Console.ReadLine();
+                if (search_choice.Equals("1"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     LinearSearch a = new LinearSearch();
                     a.linearSearch(number, array_choice);
                 }
-                else if (Console.ReadLine().Equals("2"))
+                else if (search_choice.Equals("2"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     BinarySearch(number, array_choice, 0, array_size);
                 }
             }
             else if (Sort_choice.Equals("4"))
             {
                 QuickSort x = new QuickSort();
-                x.Quicksort(array_choice);
                 x.Quicksort_descending(array_choice);
-                if (Console.ReadLine().Equals("1"))
+                display_nth(array_choice);
+                Console.WriteLine();
+                x.Quicksort(array_choice);
+                display_nth(array_choice);
+                Console.WriteLine("Would you like to search with (1) Linear Search or (2) Binary Search? ");
+                search_choice = Console.ReadLine();
+                if (search_choice.Equals("1"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     LinearSearch a = new LinearSearch();
                     a.linearSearch(number, array_choice);
                 }
-                else if (Console.ReadLine().Equals("2"))
+                else if (search_choice.Equals("2"))
                 {
                     int number;
                     Console.WriteLine("Enter your value: ");
-                    number = Int16.Parse(Console.ReadLine());
+                    number = Int32.Parse(Console.ReadLine());
                     BinarySearch(number, array_choice, 0, array_size);
                 }
             }
+            
         }
         static void Main(string[] args)
         {
@@ -268,6 +305,20 @@ namespace Algorithms_assignment
             {
                 choices(Traffic_Numbers_6, Sort_choice, 2048);
             }
+
+            int[] merge256 = merge_arrays(Traffic_Numbers, Traffic_Numbers_3);
+            int[] merge2048 = merge_arrays(Traffic_Numbers_4, Traffic_Numbers_6);
+
+            Console.WriteLine("Would you like: (1) Bubble Sort, (2) Heap Sort, (3) Insertion Sort, (4) Quick Sort?");
+            Sort_choice = Console.ReadLine();
+            choices(merge256, Sort_choice, 512);
+            display_nth(merge256);
+            Console.WriteLine("Would you like: (1) Bubble Sort, (2) Heap Sort, (3) Insertion Sort, (4) Quick Sort?");
+            Sort_choice = Console.ReadLine();
+            choices(merge2048, Sort_choice, 4096);
+            display_nth(merge2048);
+
+
         }
     }
 }
